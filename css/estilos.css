@@ -1,0 +1,55 @@
+/*Tipografia*/
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 4em;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 3em;
+    font-weight: 900;
+}
+
+h3{
+    font-size: 2em;
+    font-weight: 900;
+}
+
+p{
+    font-size: 19px;
+    line-height: 1.6;
+}
+
+span{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+}
